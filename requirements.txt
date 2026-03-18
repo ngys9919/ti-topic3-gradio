@@ -1,0 +1,15 @@
+torch==2.2.2+cpu
+torchvision==0.17.2+cpu
+--find-links https://download.pytorch.org/whl/torch_stable.html
+keras>=3.0
+numpy
+matplotlib
+pandas
+scikit-learn
+Pillow
+datasets
+transformers
+huggingface_hub
+gradio
+seaborn
+python-dotenv
